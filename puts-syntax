@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+    puts("Hello world");     //use of puts instead of printf
+    puts("I am a begginer.");
+    return 0;
+}

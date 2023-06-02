@@ -23,7 +23,7 @@ int main() {
 		case 3:
 			puts("Thank you for your feedback. We're constantly working to improve pizza quality.");
 			break;
-		case 4:
+		case 4:                         //print statement for both the cases is same
 		case 5:
 			puts("Yay! Thank you for your feedback. We would love to serve you again.");
 			break;
